@@ -136,7 +136,7 @@ function concise_comment_form_allowed_tags( $defaults ) {
 //* Change the footer text
 add_filter('genesis_footer_creds_text', 'concise_footer_creds_filter');
 function concise_footer_creds_filter( $creds ) {
-	$creds = '[footer_copyright] &middot; ' . get_bloginfo('name') . ' &middot; [footer_childtheme_link before="Designed by "]';
+	$creds = '[footer_copyright] &middot; ' . get_bloginfo('name') . ' &middot; Proudly powered by [footer_wordpress_link] and [footer_childtheme_link]';
 	return $creds;
 }
 
