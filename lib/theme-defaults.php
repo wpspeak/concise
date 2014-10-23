@@ -25,8 +25,8 @@ function concise_theme_setting_defaults() {
 }
 
 //* Simple Social Icon Defaults
-add_filter( 'simple_social_default_styles', 'wintersong_social_default_styles' );
-function wintersong_social_default_styles( $defaults ) {
+add_filter( 'simple_social_default_styles', 'concise_social_default_styles' );
+function concise_social_default_styles( $defaults ) {
 
 	$args = array(
 		'alignment'              => 'aligncenter',
