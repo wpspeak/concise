@@ -7,7 +7,7 @@ include_once( get_stylesheet_directory() . '/lib/theme-defaults.php' );
 
 //* Child theme (do not remove)
 define( 'CHILD_THEME_NAME', 'Concise Theme' );
-define( 'CHILD_THEME_URL', 'http://wpspeak.com/themes/concise/' );
+define( 'CHILD_THEME_URL', 'http://wpspeak.com/themes/concise-theme/' );
 define( 'CHILD_THEME_VERSION', '1.0.0' );
 
 //* Enqueue Google Fonts
