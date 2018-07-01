@@ -5,7 +5,7 @@ Concise is a Typography-focused theme built for <a href="http://wpspeak.com/go/g
 
 Developed by WPSpeak
 
-Website URL: <a href="http://wpspeak.com/" target="_blank">WPSpeak.com</a>
+Website URL: <a href="https://wpspeak.com/" target="_blank">WPSpeak.com</a>
 
 Twitter: <a href="https://twitter.com/wpspeak" target="_blank">@WPSpeak</a>
 
@@ -25,7 +25,7 @@ GPL 2.0 - http://www.gnu.org/licenses/gpl-2.0.html
 
 <h2>Support</h2>
 
-Being a free product, the Concise theme is offered with limited support. If you have any question and/or recommendations, please post your comment in this article http://wpspeak.com/?p=3726
+Being a free product, the Concise theme is offered with limited support. If you have any question and/or recommendations, please post your comment in this article http://wpspeak.com/?p=1347
 <h2>Changelog</h2>
 
 <h3>1.0.0</h3>
